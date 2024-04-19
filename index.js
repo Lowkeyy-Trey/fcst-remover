@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Server Protection"];
+const statusMessages = ["Bekijkt {bot_serverCount} Servers"];
 
 
 let currentIndex = 0;
