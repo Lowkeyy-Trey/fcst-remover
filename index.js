@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt {bot_serverCount} Servers"];
+const statusMessages = ["Watching over FCST!"];
 
 
 let currentIndex = 0;
